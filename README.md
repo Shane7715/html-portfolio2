@@ -1,2 +1,2 @@
-# html-portfolio2
+# html-resume
 Practice webdev.
